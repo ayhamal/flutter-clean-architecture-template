@@ -9,6 +9,7 @@ Flutter boilerplate template using clean architecture, and meedu state managemen
 5. Run app project on android and iOS device to validade all this are ok.
 
 # Template File Structure
+```bash
 lib
 ├── app.dart
 ├── env.dart
@@ -51,3 +52,4 @@ lib
     │       ├── pages.dart
     │       └── routes.dart
     └── utils
+```
