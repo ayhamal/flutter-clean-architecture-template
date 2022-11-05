@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_meedu/flutter_meedu.dart';
-import 'package:flutter_meedu/router.dart' as router;
+import 'package:flutter_meedu/meedu.dart';
+import 'package:flutter_meedu/ui.dart';
 
 import '../splash/splash_controller.dart';
 

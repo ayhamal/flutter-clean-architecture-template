@@ -7,7 +7,7 @@ publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.16.2 <3.0.0"
+  sdk: '>=2.19.0-55.0.dev <3.0.0'
 
 dependencies:
   flutter:
@@ -15,9 +15,9 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   # Flutter Meedu
-  flutter_meedu: ^6.2.5+1
+  flutter_meedu: ^8.0.0+1
   # Shared Preferences
-  shared_preferences: ^2.0.13
+  shared_preferences: ^2.0.15
 
 
 dev_dependencies:
